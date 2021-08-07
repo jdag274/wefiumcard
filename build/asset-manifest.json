@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wefiumcard/static/css/main.e38c789d.chunk.css",
+    "main.js": "/wefiumcard/static/js/main.053c995a.chunk.js",
+    "main.js.map": "/wefiumcard/static/js/main.053c995a.chunk.js.map",
+    "runtime-main.js": "/wefiumcard/static/js/runtime-main.6214932b.js",
+    "runtime-main.js.map": "/wefiumcard/static/js/runtime-main.6214932b.js.map",
+    "static/js/2.1444af86.chunk.js": "/wefiumcard/static/js/2.1444af86.chunk.js",
+    "static/js/2.1444af86.chunk.js.map": "/wefiumcard/static/js/2.1444af86.chunk.js.map",
+    "static/js/3.47c3a43c.chunk.js": "/wefiumcard/static/js/3.47c3a43c.chunk.js",
+    "static/js/3.47c3a43c.chunk.js.map": "/wefiumcard/static/js/3.47c3a43c.chunk.js.map",
+    "index.html": "/wefiumcard/index.html",
+    "static/css/main.e38c789d.chunk.css.map": "/wefiumcard/static/css/main.e38c789d.chunk.css.map",
+    "static/js/2.1444af86.chunk.js.LICENSE.txt": "/wefiumcard/static/js/2.1444af86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6214932b.js",
+    "static/js/2.1444af86.chunk.js",
+    "static/css/main.e38c789d.chunk.css",
+    "static/js/main.053c995a.chunk.js"
+  ]
+}
